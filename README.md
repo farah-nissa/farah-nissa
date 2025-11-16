@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🌱 I’m an aspiring data scientist.
-- Please check out my data projects in my account!
-- Feel free to discuss and connect.
-
+🌱 I’m an aspiring data scientist currently learning how to build ML models.
+Please check out my data projects in my account! 
+Feel free to discuss and connect.
